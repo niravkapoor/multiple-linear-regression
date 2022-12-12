@@ -5,7 +5,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -41,17 +40,11 @@ day.csv have the following fields:
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
 
-## Conclusions
-- Conclusion 1 from the analysis
-
 ## Technologies Used
 - lPython - 3.19.0
 - Pandas
 - Numpy
 - Plotly
-
-
-
 
 ## Contact
 Created by [@niravkapoor] - feel free to contact me!
